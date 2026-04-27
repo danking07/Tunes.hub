@@ -9,3 +9,46 @@ header{
     box-sizing: border-box;
     margin 0%;
 }
+
+#About{
+    text-align: center;
+    color: yellow;
+    border-radius: 0%;
+}
+
+.h2{
+    text-align: center;
+    margin: 0%;
+}
+
+#Lessons{
+    display: flex;
+    margin: 0%;
+    box-sizing: border-box 10%;
+    border-radius: 0%;
+}
+
+.divless{
+    margin: auto;
+    box-sizing: border-box;
+    border-radius: 0%;
+    margin:5%;
+}
+
+.system{
+      margin: auto;
+    box-sizing: border-box;
+    border-radius: 0%;
+    margin:5%;
+}
+
+.singing{
+      margin: auto;
+    box-sizing: border-box;
+    border-radius: 0%;
+    margin:5%;
+}
+
+.Contact{
+    
+}
